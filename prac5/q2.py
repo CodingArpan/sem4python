@@ -1,0 +1,5 @@
+newdict = dict(a=1, b=2, c=3, d=4)
+print([i[1] for i in newdict.items() if i[0] in ['a', 'd', 'c']])
+print("sum", sum([i[1] for i in newdict.items()]))
+newdict.update({'e': 5})
+print(newdict)

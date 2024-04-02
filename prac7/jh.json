@@ -1,0 +1,149 @@
+db.student.insertMany([
+    {
+        title: "MongoDB Overvie",
+        Description: "MongoDB is no sql database",
+        by_user: "arpan",
+        url: "http: //www.ganpatuniversity.ac.in",
+        tags: [
+            "mongodb",
+            "database",
+            "NoSQL"
+        ],
+        likes: 150
+    },
+    {
+        title: "NoSQL Overview",
+        Description: "No sql database is very fast",
+        by_user: "das",
+        url: "http: //www.gnu.ac.in",
+        tags: [
+            "mongodb",
+            "database",
+            "NoSQL"
+        ],
+        likes: 75
+    },
+    {
+        title: "Neo4j Overview",
+        description: "Neo4j is no sql database",
+        by_user: "ads",
+        url: "http: //www.neo4j.com",
+        tags: [
+            "neo4j",
+            "database",
+            "NoSQL"
+        ],
+        likes: 750
+    },
+    {
+         title: "MongoDB Overvie",
+        Description: "MongoDB is no sql database",
+        by_user: "ad",
+        url: "http://www.ganpatuniversity.ac.in",
+        tags: [
+            "mongodb",
+            "database",
+            "NoSQL"
+        ],
+        likes: 100
+    },
+    {
+        title: "NoSQL Overview",
+        Description: "No sql database is very fast",
+        by_user: "pds",
+        url: "http://www.gnu.ac.in",
+        tags: [
+            "mongodb",
+            "database",
+            "NoSQL"
+        ],
+        likes: 10
+    },
+    {
+        title: "Neo4j Overview",
+        description: "Neo4j is no sql database",
+        by_user: "prachi shah",
+        url: "http://www.neo4j.com",
+        tags: [
+            "neo4j",
+            "database",
+            "NoSQL"
+        ],
+        likes: 50
+    }
+])
+
+[
+    {
+        title: "MongoDB Overvie",
+        Description: "MongoDB is no sql database",
+        by_user: "arpan",
+        url: "http: //www.ganpatuniversity.ac.in",
+        tags: [
+            "mongodb",
+            "database",
+            "NoSQL"
+        ],
+        likes: 150
+    },
+    {
+        title: "NoSQL Overview",
+        Description: "No sql database is very fast",
+        by_user: "das",
+        url: "http: //www.gnu.ac.in",
+        tags: [
+            "mongodb",
+            "database",
+            "NoSQL"
+        ],
+        likes: 75
+    },
+    {
+        title: "Neo4j Overview",
+        description: "Neo4j is no sql database",
+        by_user: "ads",
+        url: "http: //www.neo4j.com",
+        tags: [
+            "neo4j",
+            "database",
+            "NoSQL"
+        ],
+        likes: 750
+    },
+    {
+         title: "MongoDB Overvie",
+        Description: "MongoDB is no sql database",
+        by_user: "ad",
+        url: "http://www.ganpatuniversity.ac.in",
+        tags: [
+            "mongodb",
+            "database",
+            "NoSQL"
+        ],
+        likes: 100
+    },
+    {
+        title: "NoSQL Overview",
+        Description: "No sql database is very fast",
+        by_user: "pds",
+        url: "http://www.gnu.ac.in",
+        tags: [
+            "mongodb",
+            "database",
+            "NoSQL"
+        ],
+        likes: 10
+    },
+    {
+        title: "Neo4j Overview",
+        description: "Neo4j is no sql database",
+        by_user: "prachi shah",
+        url: "http://www.neo4j.com",
+        tags: [
+            "neo4j",
+            "database",
+            "NoSQL"
+        ],
+        likes: 50
+    }
+]
