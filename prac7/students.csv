@@ -1,6 +1,6 @@
-name,roll_no,age,cgpa,branch,
-Arpan das,101,20,8.5,CSE,
-Rahul das,102,21,8.0,CSE,
-Rohit das,103,22,7.5,CSE,
-Raj das,104,23,7.0,CSE,
-
+name,roll_no,age,cgpa,branch
+Arpan das,101,20,8.5,CSE
+Rahul das,102,21,8,CSE
+Rohit das,103,22,7.5,CSE
+Raj das,104,23,7,CSE
+Sujal das,059,21,9.01,CE,

@@ -1,7 +1,9 @@
 def readStudents():
     file = open("students.csv", "r")
     for line in file:
-        print(line)
+        data = line.split(",")
+        dict1 = dict(name=data[0],roll_no=data[1], age=data[2], cgpa=data[3], branch=data[4])
+        print(dict1)
     file.close()
 
 

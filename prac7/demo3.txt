@@ -1,0 +1,1 @@
+mongod --port 27021 --dbpath "D:\Btech 2022-2026\Semester 4\NOSQL DATABASE SYSTEMS\Practicals\prac5\data3" --replSet testrep
