@@ -12,7 +12,8 @@ class Person:
 class SportPerson(Person):
     sport_name=''
     def __init__(self, personName, personAge,sport_name):
-        super().__init__(personName, personAge)
+        # super().__init__(personName, personAge)
+        Person.__init__(self,personName,personAge)
         self.sport_name = sport_name
 
     def display(self):
